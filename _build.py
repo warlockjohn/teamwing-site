@@ -5,7 +5,7 @@ import html
 import os
 
 EMAIL = 'teamwing.app@gmail.com'
-BETA = ''  # публичная ссылка TestFlight; пока пусто — кнопка не показывается
+BETA = 'https://testflight.apple.com/join/mYE8m84q'  # публичная ссылка TestFlight; пусто — кнопка не показывается
 UPDATED = {'ru': '18 ноября 2026', 'en': 'November 18, 2026', 'kk': '2026 жылғы 18 қараша'}
 LANGS = ['ru', 'en', 'kk']
 LANG_LABEL = {'ru': 'Рус', 'en': 'Eng', 'kk': 'Қаз'}
